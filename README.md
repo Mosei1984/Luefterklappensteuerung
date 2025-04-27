@@ -19,7 +19,7 @@ Anschlüsse:
 Komponente	Pin
 Step	2
 Direction	3
-Enable	4
+Enable	7
 Min Switch	5
 Max Switch	6
 UART TX	4 (GPIO4)
