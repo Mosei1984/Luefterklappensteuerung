@@ -29,7 +29,7 @@ Installation:
 
 Klonen Sie das Repository:
 
-git clone https://github.com/yourusername/luefterklappe.git
+git clone https://github.com/Mosei1984/luefterklappe.git
 
 Öffnen Sie das Projekt in PlatformIO.
 
